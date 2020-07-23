@@ -1,11 +1,11 @@
 # Site settings
 author: Derek Davis
-title: 
+title: Movie Analysis
 header-img: img/home-bg.png
 email: drdavis043@gmail.com
 copyright_name: Derek Davis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Created an analysis to make recommendations for Microsoft.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  drdavis043
